@@ -1,0 +1,7 @@
+1.) Find it on kaggle using:
+
+https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset?select=True.csv
+
+2.) Download from my Cloud:
+
+https://drive.google.com/drive/folders/1YqgIrAWquzalY1QOVgDbjW0CRPeYk6Vo?usp=sharing
