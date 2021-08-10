@@ -1,0 +1,4 @@
+name: yourenvname
+channels:
+  - defaults
+prefix: /Users/pierohmd/.conda/envs/yourenvname
